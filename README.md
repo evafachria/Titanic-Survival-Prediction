@@ -5,7 +5,7 @@
 
 ## How it Works
 - To experience our Titanic Survival Prediction system, please visit our Titanic Survival Prediction Web Application. Here's how it works:
-- Access the [Titanic Survival Prediction] (https://titanic-deploy-example-eva.streamlit.app/) : Click the provided link to access the web application.
+- Access the [Titanic Survival Prediction](https://titanic-deploy-example-eva.streamlit.app/). : Click the provided link to access the web application.
 - Select or Input Features: You have the option to select or input various features related to a passenger on the Titanic. These features can include age, gender, ticket class, family size, and more. The choice is yours.
 - Survival Prediction: Our prediction system will analyze the information you provide and determine whether the individual is likely to have survived or not.
 
